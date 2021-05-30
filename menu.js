@@ -473,9 +473,9 @@ return `┏🔥࿗ Sxrgxx-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖𝚊𝚝𝚎 ࿗🔥�
 ➻❥ *${p}bitcoinhoje*
 ➻❥ *${p}realhoje*
 ➻❥ *${p}cvoin* ❮ᶜ1❯|❮ᶜ2❯
-➻❥ *${p}ccoin* ❮ᶜ1❯|❮ᶜ2❯|❮ⁿᵘᵐ❯`
+➻❥ *${p}ccoin* ❮ᶜ1❯|❮ᶜ2❯|❮ⁿᵘᵐ❯
 █▓▒░░▒▓██▓▒░░▒▓█
-➟   ✖ 𝕾𝖝𝖗𝖌𝖝𝖝 ✖
+➟   ✖ 𝕾𝖝𝖗𝖌𝖝𝖝 ✖`
 }
 
 exports.help = help
