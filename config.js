@@ -37,36 +37,36 @@ const cr = 'Sergio Trmx\n'
 const prefix = '/' 
 // prefixo
 
-const blockedmsg = '*😜 Seu número esta bloqueado, ou seja não ouvindo você 😜*'
+const blockedmsg = '*😜 Su número está bloqueado 😜*'
 // mensagem quando alguem bloqueado solicita um comando
 
-const blockedcmdmsg = '*🚫Este comando esta bloqueado contate o propitetário do bot para saber o pq🚫*'
+const blockedcmdmsg = '*🚫Este comando esta bloqueado contacte con el propietario🚫*'
 // mensagem quando alguem solicita um comando bloqueado 
 
 // MENSAGENS DE BAN
 
-const banmsgtype = '*Corra membro comum, o ban estar próximo*'
+const banmsgtype = '*ya mamaste joto tu grupo será atacado👿*'
 // mensagem de ban no anti tipos de mensagem
 
-const adminmsgtype = '*Tu é adm ent n vou te banir por mandar um tipo de mensagem proibida*'
+const adminmsgtype = '*Tu eres admin te salvaste del ban perro*'
 // mensagem de quando adm manda tipos de mensagens proibidas
 
-const banmsgporn = 'Hmmm pornozinho com antiporn ativado, ja sabe né...'
+const banmsgporn = 'Hmmm ban por pajero...'
 // mensagem de ban no antiporn
 
-const adminmsgporn = '*Tu é adm ent n vou te banir por mandar porn*'
+const adminmsgporn = '*Tu eres admin no te puedo banear por mandar porno*'
 // mensagem de quando adm manda porn com antiporn ativado
 
-const banmsglink = 'Corra Membro comum, O ban está próximo...'
+const banmsglink = 'ya mamaste joto te vamos a atacar 👿...'
 // mensagem de ban no antilink
 
-const adminmsglink = 'Isso é um link amigo... ah é tu é adm ent pode kkkk 🙃'
+const adminmsglink = 'no mandes link w te salvaste por ser admin 🙃'
 // mensagem de quando adm manda link
 
-const adminmsgpalavra = 'isso esta na lista das palavras proibidas pelo bot'
+const adminmsgpalavra = 'esa es una palabra prohibida para el bot 😓'
 // mensagem de quando adm manda uma palavra proibida pelo bot
 
-const banmsgpalavra = 'Palavra proibida? Já sabe né'
+const banmsgpalavra = 'Palavra proibida? Ja'
 // mensagem de ban quando manda uma palavra proibida pelo bot
 
 const qnttravahardroleta = 2
@@ -89,10 +89,10 @@ const textmsgnig = 'Konbanwa Onii-chan, espero que tenha tido um bom dia ☺️'
 
 // MENSAGENS DE ERRO
 
-const msgerr = 'Deu erro, tente novamente :/'
+const msgerr = 'Dio error, intenta de nuevo :/'
 // mensagem de erro
 
-const notregister = `*Comando não registrado, escreva ${prefix}menu para ver a lista de comandos*`
+const notregister = `*Comando no registrado, escribe ${prefix}menu para ver la lista de comandos*`
 
 // MENSAGENS DE AUTOREPLY
 
@@ -121,11 +121,11 @@ let mess = {
         Iv: '❌ Link inválido ❌'
     },
     only: {
-        group: '❌ Este comando só pode ser usado em grupos! ❌',
-        ownerG: '❌ Este comando só pode ser usado pelo grupo proprietário! ❌',
-        ownerB: '❌ Este comando só pode ser usado pelo número proprietário! ❌',
-        admin: '❌ SILÊNCIO MEMBRO COMUM VC N TEM MORAL PRA USAR ESSE COMANDO ❌',
-        Badmin: '❌ Este comando só pode ser usado quando o bot se torna administrador! ❌'
+        group: '❌ Este comando solo puede ser usado en grupos! ❌',
+        ownerG: '❌ Este comando solo puede ser usado por grupo proprietário! ❌',
+        ownerB: '❌ Este comando só pode ser usado por mi propietario ! ❌',
+        admin: '❌ Silencio mortal eres muy gay para usar este comando ❌',
+        Badmin: '❌ Este comando solo se puede usar cuando el bot es administrador! ❌'
     }
 }
 
