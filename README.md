@@ -1,4 +1,4 @@
-# 🤖 Brizas-bot 🤖
+# 🤖 Sxrgxx-bot 🤖
 <h1 align="center">
     <p>
         <img src= "https://i.imgur.com/sm6LGkk.gif">
