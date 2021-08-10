@@ -17,7 +17,7 @@ return `┏🔥࿗ Sxrgxx-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖𝚊𝚝𝚎 ࿗🔥�
 ║
 ║
 ║ _🪀𝐆𝐫𝐮𝐩𝐨 𝐝𝐨 𝐰𝐩𝐩:_
-║ _*🤙🏾 https://chat.whatsapp.com/F7JHPjMaw4i0BZY06ThujL 🌪️*_
+║ _*🤙🏾 DESACTIVADO 🌪️*_
 ║
 ║ _Creador:_
 ║ *wa.me/525623741080*
