@@ -1,5 +1,8 @@
 const welcome = (number, groupname) => {
-    return `ola pana @${number}. bienvenido al grupo 👍 ${groupname}`
+    return `ola @${number}. 
+bienvenido al grupo▼▼
+${groupname}
+Recuerda Presentarte y leer las reglas :D `
 }
 exports.welcome = welcome
 
