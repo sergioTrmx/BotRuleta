@@ -1,6 +1,6 @@
 const welcome = (number, groupname) => {
     return `ola @${number}. 
-bienvenido al grupo▼▼
+bienvenido al grupo🤙🏾
 ${groupname}
 Recuerda Presentarte y leer las reglas :D `
 }
