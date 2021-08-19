@@ -14,11 +14,14 @@ const welcome = (number, groupname) => {
 Ꮠ ► 𝐔𝐬𝐚𝐫 𝐞𝐥 𝐛𝐨𝐭 𝐩𝐚𝐫𝐚 𝐜𝐨𝐬𝐚𝐬 +18
 
 *『Disfruta.』* 
-http://ຯ❏͜ᰰ🍡۪۪ị¡-𝕾𝖝𝖗𝖌𝖝𝖝.liola `
+http://ຯ❏͜ᰰ🍡۪۪ị¡-𝕾𝖝𝖗𝖌𝖝𝖝.li `
 }
 exports.welcome = welcome
 
 const bye = (number) => {
-    return `adios joto @${number}. no te queriamos 👋`
+    return `*『Adios joto』* 
+@${number}.
+*No te queríamos Gay👋🏼*
+http://ຯ❏͜ᰰ🍡۪۪ị¡-𝕾𝖝𝖗𝖌𝖝𝖝.li`
 }
 exports.bye = bye
