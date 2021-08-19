@@ -31,7 +31,7 @@ const menumsgimg = (numero, groupname) => {
 const apikeyimgbb = '1eb4ea79f7e4eef8241d5bdb054adc01'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = 'Sergio Trmx\n' 
+const cr = 'S̵̛̝̱͖͐́̒̑̆̐x̴͔̞̲͙̙͖̽̆͑̎̎͊͜͠͝͝r̸̻̿̓́͆̈́̍͜g̶̢͇̰͑̈́͂̿͗̂̇̄̊ẍ̸͉̼͍̳̖́x̸̠̰̻̞̭̹̊͒̉̂͘̕͜͜͠-̶̖̗̲̂͘B̴̤̮̖̩̰̾̄̄͆̄̐̂͝ò̴̧̞̎́́̓̈́̑̚t̵̨̨͖̮̺̰̩͉̭̜͑̉͗̊̒̀͐̿̽̚\n' 
 // texto do simbolo de verificado
 
 const prefix = '/' 
